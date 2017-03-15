@@ -2,4 +2,6 @@ Density and distribution function of the Poisson Binomial distribution.
 
 Scala translation of the 'poibin' R package (https://cran.r-project.org/web/packages/poibin/index.html).
 
+Usage: `libraryDependencies += "io.github.pityka"  %% "poibin" % "0.0.1"`
+
 License: GPL-2.
