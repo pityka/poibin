@@ -1,8 +1,6 @@
-scalaVersion := "2.11.8"
+scalaVersion := "2.12.4"
 
 libraryDependencies += "com.github.wendykierp" % "JTransforms" % "3.1"
-
-reformatOnCompileSettings
 
 name := "poibin"
 
